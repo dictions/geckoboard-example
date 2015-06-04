@@ -1,0 +1,20 @@
+{
+  "name": "geckoboard-example",
+  "version": "1.0.0",
+  "description": "example for daniel",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dictions/geckoboard-example"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dictions/geckoboard-example/issues"
+  },
+  "homepage": "https://github.com/dictions/geckoboard-example",
+  "dependencies": {
+    "superagent": "^1.2.0"
+  }
+}
