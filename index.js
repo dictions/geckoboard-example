@@ -1,7 +1,6 @@
 var request = require('superagent');
 var geckoboard = require('./config/geckoboard');
 
-
 var postToWidget = function(data) {
 	return request.post(geckoboard.apiUrl + geckoboard.widgetKey)
 	.send({
